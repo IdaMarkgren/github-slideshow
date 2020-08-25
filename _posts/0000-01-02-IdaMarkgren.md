@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello beautiful!
+Hello beautiful! You're going to become the greates programmer of all time!
 Use the left arrow to go back!
